@@ -1,4 +1,4 @@
-# Cartoon
+# Cartoon-ML
 
 ## Installation
 
