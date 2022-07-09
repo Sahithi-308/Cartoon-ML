@@ -27,3 +27,5 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+##Output:
+![Screenshot (144)](https://user-images.githubusercontent.com/85608117/178099475-39add42e-5779-4b73-b033-2b9a43c62e27.png)
