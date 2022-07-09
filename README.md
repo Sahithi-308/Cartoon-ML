@@ -1,4 +1,4 @@
-# Cartoon-ML
+# Cartooning an Image-ML
 
 ## Installation
 
