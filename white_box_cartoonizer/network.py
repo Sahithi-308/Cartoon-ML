@@ -5,7 +5,7 @@ To adapt the code with tensorflow v2 changes obtained from: https://github.com/s
 """
 try:
     import tensorflow.compat.v1 as tf
-    import tf_slim as slim
+import tf_slim as slim
 except ImportError:
     import tensorflow as tf
     import tensorflow.contrib.slim as slim
