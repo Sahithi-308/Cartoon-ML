@@ -1,8 +1,7 @@
 # Cartooning an Image-ML
 
-## Installation
 
-### Application tested on:
+### Application used on:
 
 - python 3.7
 - tensorflow 2.1.0 
